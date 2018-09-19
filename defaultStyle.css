@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body {
+	background-color: #733810;
+}
+
+.mainText {
+	color: #180C00;
+	background-color: #E7992A;
+	width: 75%;
+	margin: auto;
+	padding: 5px;
+	border-left: 2px solid #AD681D;
+	border-right: 2px solid #AD681D;
+	border-top: 2px solid #AD681D;
+	border-bottom: 2px solid #AD681D;
+}
