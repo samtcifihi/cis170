@@ -1,10 +1,17 @@
+/*
+	Name: Joshua Taylor
+	Date: 2018-09-19
+	Proj: Formatting
+	Desc: A visual style using goban-like colors. I hope to improve it throughout the course and maybe add other style files as well.
+ */
+
 @charset "utf-8";
 
 body {
 	background-color: #733810;
 }
 
-.mainText {
+.goban {
 	color: #180C00;
 	background-color: #E7992A;
 	width: 75%;
